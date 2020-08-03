@@ -1,7 +1,7 @@
 {
-  "name": "Centered Interview",
-  "version": "0.1",
-  "description": "My code for Ulf, react + typescript + electron",
+  "name": "centered-interview",
+  "version": "2.0.2",
+  "description": "Code for my interview in centered",
   "main": "./dist/main.bundle.js",
   "scripts": {
     "start": "electron ./dist/main.bundle.js",
@@ -13,7 +13,7 @@
   },
   "build": {
     "appId": "com.devtography.electron_boilerplate",
-    "productName": "Centered Interview",
+    "productName": "Electron+React+TypeScript Boilerplate",
     "directories": {
       "app": "./dist/",
       "output": "./out/"
@@ -27,7 +27,7 @@
     },
     "buildVersion": "1.0.0"
   },
-  "author": "Thomas Brahm",
+  "author": "Wing Chau @Devtography",
   "license": "MIT",
   "dependencies": {
     "@types/react": "^16.9.13",
@@ -71,7 +71,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tibrahm/Centered-Interview"
+    "url": "git+https://github.com/Devtography/electron-react-typescript-webpack-boilerplate"
   },
   "keywords": [
     "boilerplate",
@@ -83,5 +83,5 @@
   "bugs": {
     "url": "https://github.com/Devtography/electron-react-typescript-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/Tibrahm/Centered-Interview#readme"
+  "homepage": "https://github.com/Devtography/electron-react-typescript-webpack-boilerplate#readme"
 }
